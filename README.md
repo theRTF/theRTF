@@ -19,7 +19,7 @@
 - 💼 Freelancing + Open Source Projects
 
 ## 📫 Connect with me:
-- 📧 Email: vivektomar@example.com
+- 📧 Email: rudhrav786@gmail.com
 - 💬 LinkedIn, YouTube coming soon...
 
 ---
