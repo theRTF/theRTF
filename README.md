@@ -1,16 +1,27 @@
 ## Hi there 👋
+# 🙏 Hi, I'm Vivek Tomar (The RTF)
 
-<!--
-**theRTF/theRTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI/ML Engineer | Future Ethical Hacker | B.Sc AI & ML @ St. Xavier's College  
+🌍 Dream: Germany 🇩🇪 | 100Cr+ Empire Builder | Empire > Excuses  
+💻 Passionate about Python, Deep Learning, Cybersecurity & Building Scalable Systems  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack:
+- 🐍 Python | C++
+- 🤖 Machine Learning | Deep Learning | Data Science
+- 💻 Git | GitHub | Linux | Ethical Hacking (soon)
+- ☁️ Cloud, APIs, Automation (soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Goals:
+- 🚩 Learn Python + Git + GitHub
+- 🔐 Ethical Hacking + Red Team Skills
+- 🤖 Build & Deploy AI Models
+- 🌍 Germany Migration Plan 2030+
+- 💼 Freelancing + Open Source Projects
+
+## 📫 Connect with me:
+- 📧 Email: vivektomar@example.com
+- 💬 LinkedIn, YouTube coming soon...
+
+---
+
+**“RTF Mode: ON | No Rest. Just Results.”**
